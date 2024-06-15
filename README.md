@@ -1,2 +1,2 @@
-# week-1
+# DAY-1
 assignments submissions
